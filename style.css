@@ -1,0 +1,23 @@
+body {
+  background-color: bisque;
+}
+
+div {
+  float: left;
+  margin: 20px;
+}
+
+.i1 {
+  border: 5px solid tomato;
+}
+
+.p1 {
+  font-size: 30px;
+  color: blue;
+  width: 100%;
+}
+
+.t1 {
+  border: 5px solid peachpuff;
+  font-size: 50px;
+}
